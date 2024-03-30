@@ -19,8 +19,7 @@ def format_to_markdown_table(file_path):
     
     return markdown_table
 
-# Path to your 'raw.txt' file
-file_path = 'raw.txt'
+file_path = 'ntdll.txt'
 
 # Convert to markdown table and print
 markdown_table = format_to_markdown_table(file_path)
