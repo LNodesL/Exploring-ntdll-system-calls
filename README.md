@@ -13,4 +13,4 @@ Requirements:
 Optional / Recommended:
 
 - Python, to process the raw data (from your ntdll.txt file when you export from IDA) if you want to push it to any other format
-- Python is used for: raw to markdown, and raw to csv
+- Python is used for: raw to markdown
